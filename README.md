@@ -1,6 +1,6 @@
 # Isolation Breach P8
 
-This is a PICO-8 game I made called Isolation Breach. It is based on hacking mini games I used to play on FiveM servers.
+This is a PICO-8 game I made called Isolation Breach. It is based one of the hacking mini game from Alien Isolation.
 
 ## How to play the game
 
